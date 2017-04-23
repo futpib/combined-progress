@@ -2,7 +2,9 @@
 Easily express progress of multiple tasks and subtasks
 
 ## Demo
-![](../../Downloads/gif/gif.cropped.frameopt.gif)
+
+![example.js](https://cloud.githubusercontent.com/assets/4330357/25316696/bf270d68-2874-11e7-9d75-37f1b4520302.gif)
+
 ```js
 // Modern JavaScript
 async function startup(progress) {
