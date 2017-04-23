@@ -16,7 +16,7 @@ async function startup(progress) {
 	progress(1/3)
 	await challengeEverything(progress.subtask('challenge'))
 	progress(2/3)
-	await exceedCpuQuota(progress.subtask('cpu'));
+	await exceedCpuQuota(progress.subtask('cpu'))
 	progress(3/3)
 }
 
