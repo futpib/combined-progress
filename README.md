@@ -1,4 +1,7 @@
 # Combined Progress
+
+[![Build Status](https://travis-ci.org/futpib/combined-progress.svg?branch=master)](https://travis-ci.org/futpib/combined-progress)
+
 Easily express progress of multiple tasks and subtasks
 
 ## Demo
