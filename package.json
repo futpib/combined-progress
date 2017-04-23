@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "sinon": "^2.1.0",
+    "xo": "^0.18.1"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "name": "combined-progress",
+  "version": "1.0.0",
+  "description": "Easily express progress of multiple tasks and subtasks",
+  "main": "index.js",
+  "repository": "git@github.com:futpib/combined-progress.git",
+  "author": "futpib <futpib@gmail.com>",
+  "license": "MIT OR GPL-3.0+",
+  "dependencies": {
+    "lodash.defaultsdeep": "^4.6.0"
+  },
+  "optionalDependencies": {
+    "bluebird": "^3.5.0",
+    "clear": "^0.0.1",
+    "json-stable-stringify": "^1.0.1",
+    "lodash.range": "^3.2.0"
+  }
+}
